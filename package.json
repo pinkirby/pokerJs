@@ -1,0 +1,19 @@
+{
+  "name": "pokerjs",
+  "version": "1.0.0",
+  "description": "utilities to play poker",
+  "main": "main.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkirby/pokerJs.git"
+  },
+  "author": "JeepJeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinkirby/pokerJs/issues"
+  },
+  "homepage": "https://github.com/pinkirby/pokerJs#readme"
+}
